@@ -1,2 +1,8 @@
-# hanzi-dictation
-An iOS Chinese character dictation tool features 4180 Chinese characters sorted by frequency. For each character, it first displays the pinyin, reads the character aloud and provides example words, then shows the character with an animation.es example words, then shows the character with an animation.
+# 汉字听写 App
+一款面向iOS的汉字听写工具，适配iPhone 7（iOS 15.8.5）以上iphone，核心功能：
+- 正序/倒序汉字听写，进度自动保存
+- 汉字书写动画演示
+- 蓝牙TTS朗读，支持拼音/组词展示
+
+## 支持与反馈
+若使用中遇到问题，可通过邮箱联系：wangxirui20040704@icloud.com
